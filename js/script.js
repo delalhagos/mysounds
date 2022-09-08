@@ -1,14 +1,14 @@
 const myMusicList = [
-    "American Honey - Current Joys",
-    "Way it Goes - Hippocampus",
-    "I Don't Want to Talk - Wallows",
-    "Northern Boy - The Academic",
-    "Cherry - Harry Styles",
-    "Cemetery - COIN",
-    "My Type - Saint Motel",
-    "cold/mess - Prateek Kuhad",
-    "Everybody Talks - Neon Trees",
-    "Cough Syrup - Young the Giant",
+    "Location- Dave ft Burna Boy",
+    "Chicago Freestyle - Drake & GIVEON",
+    "It's Plenty - Burna Boy",
+    "Hold You - Gyptian",
+    "This City - Sam Fischer",
+    "You're Somebody Else - Flora Cash",
+    "7 Days - Craig David",
+    "Ye - Burna Boy",
+    "Middle Child - J.cole",
+    "Toxic love - Deno ft Jade Silviia",
 ];
   
   const mixList = document.querySelector(".my-songs");
